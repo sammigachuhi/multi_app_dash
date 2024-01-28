@@ -28,4 +28,6 @@ NB: Testing pushing changes from local branch TDW-999-trial to remote branch TDW
 
 NB: Testing pushing changes from local branch TDW-999-trial to remote branch TDW-999-testing-gx third trial.
 
+Pushed local branch TDW-999-trial through `git push origin TDW-999-trial` and it appeared on github!
+
 
