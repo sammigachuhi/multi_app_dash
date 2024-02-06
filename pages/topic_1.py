@@ -7,8 +7,6 @@ from .side_bar import sidebar
 
 dash.register_page(__name__, name="Topics")
 
-topic_test = []
-topic_tes2 = []
 def layout():
     return dbc.Row(
         [dbc.Col(
