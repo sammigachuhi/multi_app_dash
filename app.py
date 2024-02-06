@@ -1,8 +1,6 @@
 import dash
 from dash import Dash, html, dcc
 
-testing_list = []
-
 app = Dash(__name__, use_pages=True,
            pages_folder="pages")
 
@@ -20,5 +18,3 @@ app.layout = html.Div([
 if __name__ == "__main__":
     app.run(debug=True)
 
-#### Testing
-#### Testing
