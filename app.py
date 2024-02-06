@@ -1,6 +1,9 @@
 import dash
 from dash import Dash, html, dcc
 
+testing = []
+testing2 = []
+
 app = Dash(__name__, use_pages=True,
            pages_folder="pages")
 
